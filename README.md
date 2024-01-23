@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 (Esencia del Cliente) propuesto por Alura Latam en el BootCamp "Data Science and Machine Learning".
+Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 2 (Esencia del Cliente) propuesto por Alura Latam en el BootCamp "Data Science and Machine Learning".
 
 ## Habilidades en este proyecto
 
