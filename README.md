@@ -50,7 +50,7 @@ Los pasos sugeridos para solucionar este desafío, los enumeramos a continuació
 
 6. Análisis e interpretación de clusters: Aquí es donde aplicarás todas tus competencias analíticas para describir los hallazgos en cada uno de los clusters generados, y así plantear posibles estrategias para mejorar la experiencia de los clientes.
 
-En este proyecto queremos que sigas practicando tus nuevas habilidades con el uso de Pandas, Numpy, Matplotlib y Seaborn en junción con una de las principales bibliotecas para el Machine Learning: Scikit-Learn. 
+En este proyecto se hace uso de las librerías Pandas, Numpy, Matplotlib y Seaborn en junción con una de las principales bibliotecas para el Machine Learning: Scikit-Learn. 
 
 </span>
 
