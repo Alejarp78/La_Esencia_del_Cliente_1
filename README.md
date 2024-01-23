@@ -99,7 +99,7 @@ La esencia del Cliente posee métricas utilizando la segmentación de los produc
 * Califica con una estrella :star2:
 
 ---
-<span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
-<p>Página generada el 24 de octubre del 2023 por Jhozmer A. Ramírez P. Versión 1.0, Mérida-Venezuela.</p>
+<span> Copyright © 2024 [Alejarp78](https://https://github.com/Alejarp78) </span>
+<p>Página generada el 19 de enero del 2024 por Jhozmer A. Ramírez P. Versión 1.0, Mérida-Venezuela.</p>
  
 
